@@ -11,7 +11,7 @@ tags:
     - 轮子
 ---
 
->**BYPhoneNumTF** 一个电话号码格式的文本框
+>**OSLPhoneNumTF** 一个电话号码格式的文本框
 
 # 功能
 
@@ -394,4 +394,4 @@ tags:
 
 在storyboard中的`TextField`控件的Calss类型选择该类`BYPhoneNumTF`即可。
 
-代码及Demo下载地址：[BYPhoneNumTF](https://github.com/qiubaiying/BYPhoneNumTF)
+代码及Demo下载地址：[BYPhoneNumTF](https://github.com/OneSunLee/BYPhoneNumTF)
