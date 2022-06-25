@@ -1,10 +1,10 @@
 # Site settings
-title: YY Blog
-SEOTitle: OneSunLee的博客 | YY Blog
+title: 一阳的博客
+SEOTitle: OneSunLee BLOG | OSL Blog
 header-img: img/post-bg-desk.jpg
 email: OneSunLee@gmail.com
 description: "Every failure is leading towards success."
-keyword: "LYY, LYY Blog, 一阳的博客, OneSunLee, 李一阳, iOS, Apple, iPhone"
+keyword: "OSL, OSL Blog, 一阳的博客, OneSunLee, 李一阳, iOS, Apple, iPhone"
 url: "http://OneSunLee.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/OneSunLee/OneSunLee.github.io.git" # you code repository
@@ -21,8 +21,8 @@ RSS: false
 # weibo_username:     OneSunLee
 zhihu_username:     OneSunLee
 github_username:    OneSunLee
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+#facebook_username:  SunLee.One.7
+#jianshu_username:   e71990ada2fd
 #twitter_username:   OneSunLee
 
 
